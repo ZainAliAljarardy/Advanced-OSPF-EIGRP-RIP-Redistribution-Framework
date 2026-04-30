@@ -70,7 +70,6 @@ Recent IT Graduate | Network Engineer
 
 Specialized in Cisco Enterprise Routing & Switching
 
-GitHub Profile | LinkedIn
-
+[GitHub Profile](https://github.com/ZainAliAljarardy/) | # [LinkedIn](https://www.linkedin.com/in/your-profile)
 ```
 ```
